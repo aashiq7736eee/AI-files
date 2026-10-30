@@ -1,2 +1,2 @@
 # AI-files
-collab notebooks
+colab notebooks
